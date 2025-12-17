@@ -21,6 +21,6 @@ PREMIUM PURCHASES:
 - Payment data never touches our servers
 
 CONTACT:
-your-email@example.com
+dominus27@gmail.com
 
 That's it. Simple, private, secure.
