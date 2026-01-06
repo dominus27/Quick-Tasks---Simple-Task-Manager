@@ -1,4 +1,4 @@
-## Privacy Policy (Required)
+## Privacy Policy
 
 ### Quick Tasks Privacy Policy
 
@@ -15,9 +15,6 @@ Quick Tasks does not use any third-party analytics, tracking, or advertising ser
 
 **Data Sharing:**
 We do not share, sell, or transmit your data to any third parties. Your tasks remain completely private.
-
-**Contact:**
-For privacy concerns, contact josegpneto@yahoo.com.br
 
 Last updated: January 2026
 
