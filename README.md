@@ -1,26 +1,54 @@
-PRIVACY POLICY for Quick Tasks
+Quick Tasks Privacy Policy
+Data Collection:
+Quick Tasks does not collect, store, or transmit any personal data. All tasks and settings are stored locally in your browser using Chrome's sync storage API.
+Permissions Used:
 
-Last Updated: [Date]
+Storage: To save your tasks and preferences locally
+Alarms: To trigger task reminders at scheduled times
+Notifications: To display reminder alerts for tasks
 
-Quick Tasks respects your privacy.
+Third-Party Services:
+Quick Tasks does not use any third-party analytics, tracking, or advertising services.
+Data Sharing:
+We do not share, sell, or transmit your data to any third parties. Your tasks remain completely private.
+Contact:
+For privacy concerns, contact josegpneto@yahoo.com.br
+Last updated: January 2026
 
-DATA COLLECTION:
-- We do NOT collect any personal data
-- We do NOT track your usage
-- We do NOT use analytics
-- We do NOT show ads
+Store Listing Assets Recommendations
+Screenshots (Required: 1280x800 or 640x400)
 
-DATA STORAGE:
-- All tasks are stored locally in YOUR browser
-- Optional Chrome sync uses Google's secure sync
-- We never have access to your data
+Main interface showing task list with categories
+Add task with reminder feature highlighted
+Statistics dashboard view
+Theme selector showing all 6 themes
+Export tasks feature demonstration
 
-PREMIUM PURCHASES:
-- Handled securely by Gumroad
-- We receive only email for license delivery
-- Payment data never touches our servers
+Promotional Images (Optional: 1400x560)
 
-CONTACT:
-dominus27@gmail.com
+Hero image with "Lightning-Fast Task Management" tagline
+Feature showcase highlighting key benefits
 
-That's it. Simple, private, secure.
+Icon (Required: 128x128)
+
+Simple lightning bolt icon with colorful gradient background
+Should match the purple/gradient theme
+
+
+Version History Template
+Version 2.0.0
+
+✨ All features now free and unlocked
+🔔 Added task reminders with notifications
+🎨 Improved theme system
+💾 Enhanced export functionality
+🐛 Bug fixes and performance improvements
+
+Version 1.0.0
+
+🎉 Initial release
+📝 Unlimited tasks
+🏷️ Category system
+🎨 6 beautiful themes
+📊 Statistics dashboard
+☁️ Cloud sync support
